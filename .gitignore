@@ -1,0 +1,10 @@
+__pycache__
+build/
+.vscode
+ext/
+kick_the_tires
+results
+decaparated
+plots
+*.so
+*.onnx
