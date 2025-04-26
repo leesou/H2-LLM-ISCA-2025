@@ -1,0 +1,3 @@
+[submodule "3rd/domino"]
+	path = 3rd/domino
+	url = https://github.com/pku-liang/Domino
